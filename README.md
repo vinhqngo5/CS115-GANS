@@ -7,5 +7,5 @@
   <li>DCGANs.ipynb: file notebook cài đặt GANs sử dụng CNN</li>
 </ul>
 <h1>Demo của GANs trên tập dữ liệu MNIST</h1>
-<img src="https://github.com/vinhqngo5/CS115_GANs/blob/main/demo.gif" alt="chữ viết tay giả tạo bởi Generator qua các epoch"  width=250/>
+<img src="https://github.com/vinhqngo5/CS115_GANs/blob/main/demo.gif" alt="chữ viết tay giả tạo bởi Generator qua các epoch"  width=500/>
 
